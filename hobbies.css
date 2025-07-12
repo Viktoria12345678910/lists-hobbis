@@ -1,0 +1,34 @@
+body {
+  background-color: pink;
+  font-size: 2.5em;
+}
+.hobby{
+  
+    background: transparent;
+    border: none !important;
+}
+.add{
+
+}
+table {
+  table-layout: fixed;
+  width: 80%;
+  min-width: 1000px;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  /*padding: 0.6em;*/
+  text-align: center;
+  0.875em
+}
+dev{
+  display: flex;
+}
+.add{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
